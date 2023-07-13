@@ -5,7 +5,7 @@ public class Calculator {
     }
     public static void Multiply(integer a ,integer b){
         integer Multi=a*b;
-         System.debug('Multiply the value:' +Multi);//My changes
+         System.debug('Multiply the value:' +Multi);//Mychanges
     }
     public static void subtract(integer a ,integer b){
         integer sub=a-b;
